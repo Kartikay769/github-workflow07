@@ -19,3 +19,5 @@ jobs:
           python-version: '3.9.11'
 
       - run: python --version
+
+      run: script.py
